@@ -4,7 +4,8 @@ export ZSH=$HOME/.dotfiles/oh-my-zsh
 export ZSH_THEME="powerlevel9k/powerlevel9k"
 # if you want to use this, change your non-ascii font to Droid Sans Mono for Awesome
 # POWERLEVEL9K_MODE='awesome-patched'
-# export ZSH_THEME="powerlevel9k/powerlevel9k"
+export ZSH_THEME="powerlevel9k/powerlevel9k"
+# export ZSH_THEME="agnoster"
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=2
 # POWERLEVEL9K_SHORTEN_FOLDER_MARKER="code.espn.com"
 POWERLEVEL9K_SHORTEN_STRATEGY="truncate_with_package_name"
